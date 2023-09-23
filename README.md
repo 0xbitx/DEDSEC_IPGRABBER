@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_IPGRABBER/blob/main/banner.png", width="600", height="600">
+<img src="https://github.com/0xbitx/DEDSEC_IPGRABBER/blob/master/banner.png", width="600", height="600">
 </p>
 <h1 align="center"> DEDSEC_IPGRABBER</h1>
 <h4 align="center"> </h4>
