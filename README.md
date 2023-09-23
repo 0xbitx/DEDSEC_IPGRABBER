@@ -3,7 +3,7 @@
 <img src="https://github.com/0xbitx/DEDSEC_IPGRABBER/blob/master/banner.png", width="600", height="600">
 </p>
 <h1 align="center"> DEDSEC_IPGRABBER</h1>
-<h4 align="center"> </h4>
+<h4 align="center"> DEDSEC_IPGRABBER is python tool and html that can grab ip address using link.</h4>
 
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_IPGRABBER.git
