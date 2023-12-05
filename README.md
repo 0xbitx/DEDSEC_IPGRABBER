@@ -9,7 +9,7 @@
 * git clone https://github.com/0xbitx/DEDSEC_IPGRABBER.git
 * cd DEDSEC_IPGRABBER
 * pip3 install pystyle tabulate pycryptodome
-* sudo python3 dedsec_ip_grabber.py
+* sudo ./dedsec_ip_grabber
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
