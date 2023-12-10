@@ -8,7 +8,8 @@
 ### INSTALLATION [KALI - PARROT - TERMUX]
 * git clone https://github.com/0xbitx/DEDSEC_IPGRABBER.git
 * cd DEDSEC_IPGRABBER
-* pip3 install pystyle tabulate pycryptodome
+* pip3 install pystyle
+* chmod +x dedsec_ip_grabber
 * sudo ./dedsec_ip_grabber
 
 ### TESTED ON FOLLOWING
